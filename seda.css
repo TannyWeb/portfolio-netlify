@@ -43,7 +43,11 @@
     justify-content: center;
     align-items: center;
     background-image: url('imgs/Group\ 1\ \(1\).png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
+
 
 .feeling {
     text-align: center;
